@@ -3,8 +3,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".MainActivity">
 
-
-
     <item
         android:id="@+id/action_settings"
         android:title="Salir"
@@ -12,6 +10,7 @@
         android:showAsAction="always"
 
         />
+
 
 
 </menu>

@@ -44,6 +44,14 @@
     <string name="error_mismatched_passwords">Ingrese la misma contraseña en ambos campos</string>
     <string name="error_join">", y "</string>
     <string name="error_end">.</string>
+    <string name="title_activity_lista_categorias">ListaCategorias</string>
+    <string name="title_activity_lista_categorias_boots">ListaCategoriasBoots</string>
+    <string name="title_activity_lista_categorias_gloves">ListaCategoriasGloves</string>
+    <string name="title_activity_lista_categorias_helmets">ListaCategoriasHelmets</string>
+    <string name="title_activity_lista_categorias_jackets">ListaCategoriasJackets</string>
+    <string name="title_activity_lista_categorias_pants">ListaCategoriasPants</string>
+    <string name="title_activity_lista_cactegorias_protection">ListaCactegoriasProtection</string>
+    <string name="title_activity_listar_carrito">ListarCarrito</string>
 
 
 
